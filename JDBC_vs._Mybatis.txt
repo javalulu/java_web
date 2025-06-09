@@ -1,0 +1,12 @@
+JDBC与MyBatis的区别
+
+JDBC的链接数据库信息(url, username, password)是硬编码在java程序里的，不方便修改，每次修改都需要重新编译
+而MyBatis是编写在application.properties里，方便统一修改，而且不需要每次都编译
+
+JDBC对获取后的信息封装繁琐
+
+每次都需要手动释放资源，性能降低
+而MyBatis运用数据库连接池储存Connection对象，每次使用都会从池里拿取，用完了再归还，不用频繁创建释放
+
+数据库连接池(springboot默认使用Hikari DataSource，可选阿里Druid连接池)：
+释放空闲时间过大的链接，避免因长时间占用链接而引起数据库链接遗漏，导致链接越用越少

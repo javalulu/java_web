@@ -4,77 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e9666db-88e6-4bc6-b968-f040e5750b25" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven-project01/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven-project01/src/main/java/com/americano/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven-project01/src/main/java/com/americano/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven-project01/src/test/java/com/americano/UserServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven-project01/target/classes/com/americano/HelloWorld.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven-project01/target/classes/com/americano/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven-project01/target/test-classes/com/americano/UserServiceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven-project02/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven-project02/src/main/java/com/itheima/HelloMaven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven-project03/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven-project03/src/main/java/com/itheima/HelloMaven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/src/main/java/com/americano/SpringbootWeb01Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/src/main/java/com/americano/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/src/main/java/com/americano/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/src/main/java/com/americano/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/src/main/java/com/americano/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/src/main/java/com/americano/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/src/main/java/com/americano/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/src/main/java/com/americano/service/impl/UserServiceImpl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/src/main/resources/static/js/axios.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/src/main/resources/static/js/vue.esm-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/src/main/resources/static/user.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/src/main/resources/user.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/src/test/java/com/americano/SpringbootWeb01ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/target/classes/com/americano/SpringbootWeb01Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/target/classes/com/americano/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/target/classes/com/americano/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/target/classes/com/americano/dao/impl/UserDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/target/classes/com/americano/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/target/classes/com/americano/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/target/classes/com/americano/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/target/classes/com/americano/service/impl/UserServiceImpl2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/target/classes/static/js/axios.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/target/classes/static/js/vue.esm-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/target/classes/static/user.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/target/classes/user.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-01/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-quickstart/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-quickstart/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-quickstart/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-quickstart/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-quickstart/src/main/java/com/americano/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-quickstart/src/main/java/com/americano/RequestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-quickstart/src/main/java/com/americano/ResponseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-quickstart/src/main/java/com/americano/SpringbootWebQuickstartApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-quickstart/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-quickstart/src/test/java/com/americano/SpringbootWebQuickstartApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-quickstart/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-quickstart/target/classes/com/americano/HelloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-quickstart/target/classes/com/americano/RequestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-quickstart/target/classes/com/americano/ResponseController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-web-quickstart/target/classes/com/americano/SpringbootWebQuickstartApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-ai-project01.iml" afterDir="false" />
+    <list default="true" id="1e9666db-88e6-4bc6-b968-f040e5750b25" name="Changes" comment="Web基础">
+      <change afterPath="$PROJECT_DIR$/jdbc-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -125,48 +60,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.UserServiceTest.executor&quot;: &quot;Coverage&quot;,
-    &quot;JUnit.UserServiceTest.testGetAge.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.UserServiceTest.testGetGender.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.UserServiceTest.testGetGenderWithAssert.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.UserServiceTest.testGetGenderWithAssert2.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.maven-project01 [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.maven-project01 [compile].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.maven-project01 [package].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.maven-project01 [test].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.springboot-web-01 [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.springboot-web-01 [compile].executor&quot;: &quot;Run&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Spring Boot.SpringbootWeb01Application.executor&quot;: &quot;Debug&quot;,
-    &quot;Spring Boot.SpringbootWebQuickstartApplication.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-21&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Study/JavaWeb/web-ai-project01/web-ai-project01&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.HelloWorld.executor": "Run",
+    "JUnit.JdbcTest.testQuery.executor": "Run",
+    "JUnit.JdbcTest.testUpdate.executor": "Run",
+    "JUnit.SpringbootMybatisQuickstartApplicationTests.testDeleteById.executor": "Run",
+    "JUnit.SpringbootMybatisQuickstartApplicationTests.testFindAll.executor": "Run",
+    "JUnit.SpringbootMybatisQuickstartApplicationTests.testFindByUsernameAndPassword.executor": "Run",
+    "JUnit.SpringbootMybatisQuickstartApplicationTests.testInsert.executor": "Run",
+    "JUnit.SpringbootMybatisQuickstartApplicationTests.testUpdate.executor": "Run",
+    "JUnit.UserServiceTest.executor": "Coverage",
+    "JUnit.UserServiceTest.testGetAge.executor": "Run",
+    "JUnit.UserServiceTest.testGetGender.executor": "Run",
+    "JUnit.UserServiceTest.testGetGenderWithAssert.executor": "Run",
+    "JUnit.UserServiceTest.testGetGenderWithAssert2.executor": "Run",
+    "Maven.maven-project01 [clean].executor": "Run",
+    "Maven.maven-project01 [compile].executor": "Run",
+    "Maven.maven-project01 [package].executor": "Run",
+    "Maven.maven-project01 [test].executor": "Run",
+    "Maven.springboot-web-01 [clean].executor": "Run",
+    "Maven.springboot-web-01 [compile].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.SpringbootWeb01Application.executor": "Debug",
+    "Spring Boot.SpringbootWebQuickstartApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "corretto-21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Study/JavaWeb/web-ai-project01/web-ai-project01",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/springboot-web-01/src/main/resources/static" />
@@ -180,13 +128,16 @@
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
         <option value="SpringBootApplicationConfigurationType" />
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringbootWeb01Application">
-    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="maven-project01" />
+  <component name="RunManager" selected="JUnit.SpringbootMybatisQuickstartApplicationTests.testFindAll">
+    <configuration name="SpringbootMybatisQuickstartApplicationTests.testDeleteById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mybatis-quickstart" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.americano.*" />
@@ -194,14 +145,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.americano" />
-      <option name="MAIN_CLASS_NAME" value="com.americano.UserServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="com.americano.SpringbootMybatisQuickstartApplicationTests" />
+      <option name="METHOD_NAME" value="testDeleteById" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserServiceTest.testGetAge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="maven-project01" />
+    <configuration name="SpringbootMybatisQuickstartApplicationTests.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mybatis-quickstart" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.americano.*" />
@@ -209,15 +161,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.americano" />
-      <option name="MAIN_CLASS_NAME" value="com.americano.UserServiceTest" />
-      <option name="METHOD_NAME" value="testGetAge" />
+      <option name="MAIN_CLASS_NAME" value="com.americano.SpringbootMybatisQuickstartApplicationTests" />
+      <option name="METHOD_NAME" value="testFindAll" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserServiceTest.testGetGender" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="maven-project01" />
+    <configuration name="SpringbootMybatisQuickstartApplicationTests.testFindByUsernameAndPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mybatis-quickstart" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.americano.*" />
@@ -225,15 +177,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.americano" />
-      <option name="MAIN_CLASS_NAME" value="com.americano.UserServiceTest" />
-      <option name="METHOD_NAME" value="testGetGender" />
+      <option name="MAIN_CLASS_NAME" value="com.americano.SpringbootMybatisQuickstartApplicationTests" />
+      <option name="METHOD_NAME" value="testFindByUsernameAndPassword" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserServiceTest.testGetGenderWithAssert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="maven-project01" />
+    <configuration name="SpringbootMybatisQuickstartApplicationTests.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mybatis-quickstart" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.americano.*" />
@@ -241,25 +193,32 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.americano" />
-      <option name="MAIN_CLASS_NAME" value="com.americano.UserServiceTest" />
-      <option name="METHOD_NAME" value="testGetGenderWithAssert" />
+      <option name="MAIN_CLASS_NAME" value="com.americano.SpringbootMybatisQuickstartApplicationTests" />
+      <option name="METHOD_NAME" value="testInsert" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserServiceTest.testGetGenderWithAssert2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="maven-project01" />
+    <configuration name="SpringbootMybatisQuickstartApplicationTests.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mybatis-quickstart" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.americano.*" />
-          <option name="ENABLED" value="false" />
+          <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.americano" />
-      <option name="MAIN_CLASS_NAME" value="com.americano.UserServiceTest" />
-      <option name="METHOD_NAME" value="testGetGenderWithAssert2" />
+      <option name="MAIN_CLASS_NAME" value="com.americano.SpringbootMybatisQuickstartApplicationTests" />
+      <option name="METHOD_NAME" value="testUpdate" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMybatisQuickstartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-mybatis-quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.americano.SpringbootMybatisQuickstartApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -280,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserServiceTest" />
-        <item itemvalue="JUnit.UserServiceTest.testGetGenderWithAssert2" />
-        <item itemvalue="JUnit.UserServiceTest.testGetGenderWithAssert" />
-        <item itemvalue="JUnit.UserServiceTest.testGetGender" />
-        <item itemvalue="JUnit.UserServiceTest.testGetAge" />
+        <item itemvalue="JUnit.SpringbootMybatisQuickstartApplicationTests.testFindAll" />
+        <item itemvalue="JUnit.SpringbootMybatisQuickstartApplicationTests.testFindByUsernameAndPassword" />
+        <item itemvalue="JUnit.SpringbootMybatisQuickstartApplicationTests.testUpdate" />
+        <item itemvalue="JUnit.SpringbootMybatisQuickstartApplicationTests.testInsert" />
+        <item itemvalue="JUnit.SpringbootMybatisQuickstartApplicationTests.testDeleteById" />
       </list>
     </recent_temporary>
   </component>
@@ -317,12 +276,30 @@
       <workItem from="1749136535185" duration="3098000" />
       <workItem from="1749227285428" duration="915000" />
       <workItem from="1749228211239" duration="2344000" />
-      <workItem from="1749269059061" duration="3140000" />
+      <workItem from="1749269059061" duration="8070000" />
+      <workItem from="1749399184951" duration="1226000" />
+      <workItem from="1749446003295" duration="3509000" />
+      <workItem from="1749453625227" duration="7787000" />
+      <workItem from="1749476871195" duration="3503000" />
+      <workItem from="1749483421385" duration="1675000" />
     </task>
+    <task id="LOCAL-00001" summary="Web基础">
+      <option name="closed" value="true" />
+      <created>1749276137153</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749276137153</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Web基础" />
+    <option name="LAST_COMMIT_MESSAGE" value="Web基础" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
