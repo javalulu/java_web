@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e9666db-88e6-4bc6-b968-f040e5750b25" name="Changes" comment="Web基础">
-      <change afterPath="$PROJECT_DIR$/jdbc-demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="1e9666db-88e6-4bc6-b968-f040e5750b25" name="Changes" comment="MyBatis">
+      <change afterPath="$PROJECT_DIR$/springboot-mybatis-quickstart/src/main/resources/application_properties.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-mybatis-quickstart/src/main/resources/application.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,61 +58,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.HelloWorld.executor": "Run",
-    "JUnit.JdbcTest.testQuery.executor": "Run",
-    "JUnit.JdbcTest.testUpdate.executor": "Run",
-    "JUnit.SpringbootMybatisQuickstartApplicationTests.testDeleteById.executor": "Run",
-    "JUnit.SpringbootMybatisQuickstartApplicationTests.testFindAll.executor": "Run",
-    "JUnit.SpringbootMybatisQuickstartApplicationTests.testFindByUsernameAndPassword.executor": "Run",
-    "JUnit.SpringbootMybatisQuickstartApplicationTests.testInsert.executor": "Run",
-    "JUnit.SpringbootMybatisQuickstartApplicationTests.testUpdate.executor": "Run",
-    "JUnit.UserServiceTest.executor": "Coverage",
-    "JUnit.UserServiceTest.testGetAge.executor": "Run",
-    "JUnit.UserServiceTest.testGetGender.executor": "Run",
-    "JUnit.UserServiceTest.testGetGenderWithAssert.executor": "Run",
-    "JUnit.UserServiceTest.testGetGenderWithAssert2.executor": "Run",
-    "Maven.maven-project01 [clean].executor": "Run",
-    "Maven.maven-project01 [compile].executor": "Run",
-    "Maven.maven-project01 [package].executor": "Run",
-    "Maven.maven-project01 [test].executor": "Run",
-    "Maven.springboot-web-01 [clean].executor": "Run",
-    "Maven.springboot-web-01 [compile].executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.SpringbootWeb01Application.executor": "Debug",
-    "Spring Boot.SpringbootWebQuickstartApplication.executor": "Run",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "corretto-21",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Study/JavaWeb/web-ai-project01/web-ai-project01",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JdbcTest.testQuery.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JdbcTest.testUpdate.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SpringbootMybatisQuickstartApplicationTests.testDeleteById.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SpringbootMybatisQuickstartApplicationTests.testFindAll.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SpringbootMybatisQuickstartApplicationTests.testFindByUsernameAndPassword.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SpringbootMybatisQuickstartApplicationTests.testInsert.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SpringbootMybatisQuickstartApplicationTests.testUpdate.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.UserServiceTest.testGetAge.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.testGetGender.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.testGetGenderWithAssert.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.testGetGenderWithAssert2.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.maven-project01 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.maven-project01 [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.maven-project01 [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.maven-project01 [test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.springboot-web-01 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.springboot-web-01 [compile].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SpringbootWeb01Application.executor&quot;: &quot;Debug&quot;,
+    &quot;Spring Boot.SpringbootWebQuickstartApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Study/JavaWeb/web-ai-project01/web-ai-project01&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/springboot-web-01/src/main/resources/static" />
@@ -135,8 +133,8 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SpringbootMybatisQuickstartApplicationTests.testFindAll">
-    <configuration name="SpringbootMybatisQuickstartApplicationTests.testDeleteById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SpringbootMybatisQuickstartApplicationTests">
+    <configuration name="SpringbootMybatisQuickstartApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot-mybatis-quickstart" />
       <extension name="coverage">
         <pattern>
@@ -146,8 +144,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.americano" />
       <option name="MAIN_CLASS_NAME" value="com.americano.SpringbootMybatisQuickstartApplicationTests" />
-      <option name="METHOD_NAME" value="testDeleteById" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -239,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SpringbootMybatisQuickstartApplicationTests" />
         <item itemvalue="JUnit.SpringbootMybatisQuickstartApplicationTests.testFindAll" />
         <item itemvalue="JUnit.SpringbootMybatisQuickstartApplicationTests.testFindByUsernameAndPassword" />
         <item itemvalue="JUnit.SpringbootMybatisQuickstartApplicationTests.testUpdate" />
         <item itemvalue="JUnit.SpringbootMybatisQuickstartApplicationTests.testInsert" />
-        <item itemvalue="JUnit.SpringbootMybatisQuickstartApplicationTests.testDeleteById" />
       </list>
     </recent_temporary>
   </component>
@@ -256,6 +253,9 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewState">
+    <option name="selectedTab" value="逻辑" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1e9666db-88e6-4bc6-b968-f040e5750b25" name="Changes" comment="" />
@@ -282,6 +282,9 @@
       <workItem from="1749453625227" duration="7787000" />
       <workItem from="1749476871195" duration="3503000" />
       <workItem from="1749483421385" duration="1675000" />
+      <workItem from="1749485131142" duration="168000" />
+      <workItem from="1749566809005" duration="5000" />
+      <workItem from="1749825872605" duration="1119000" />
     </task>
     <task id="LOCAL-00001" summary="Web基础">
       <option name="closed" value="true" />
@@ -291,7 +294,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749276137153</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="MyBatis">
+      <option name="closed" value="true" />
+      <created>1749485157716</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749485157716</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,7 +310,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Web基础" />
-    <option name="LAST_COMMIT_MESSAGE" value="Web基础" />
+    <MESSAGE value="MyBatis" />
+    <option name="LAST_COMMIT_MESSAGE" value="MyBatis" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
